@@ -154,5 +154,10 @@ html, body {
 }
 
 .hero-title .line {
+
   display: inline-block;
+}
+
+.hero-content h1 .line-3 {
+  color: #ffffff;
 }
